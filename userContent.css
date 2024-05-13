@@ -1,0 +1,14 @@
+/*@-moz-document url-prefix(moz-extension){
+    html {
+      transform: scale(0.8,0.8);
+      transform-origin: 0 0;
+    }
+  }*/
+/*
+@-moz-document url-prefix(about:home) {
+  body {
+    background-color: red !important;
+    background-image: url("https://picsum.photos/2000/1125.jpg") !important;
+    background-size: 100%;
+  }
+}*/
